@@ -1,4 +1,4 @@
-# Risco de Crédito Global — BI + Machine Learning
+# Risco de Crédito Global — BI 
 
 Projeto de Business Intelligence para análise de inadimplência,
 desenvolvido para a disciplina de Ciência de Dados — CEUB 2026.
