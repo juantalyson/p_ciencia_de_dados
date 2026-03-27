@@ -1,20 +1,30 @@
-# 📊 Análise de Risco de Crédito
+# Risco de Crédito Global — BI + Machine Learning
 
-## 📌 Objetivo
-Analisar dados para identificar risco de inadimplência.
+Projeto de Business Intelligence para análise de inadimplência,
+desenvolvido para a disciplina de Ciência de Dados — CEUB 2026.
 
-## 📊 Dados
-Dataset contendo informações de clientes.
+## Problema
+Prever a probabilidade de um cliente dar calote com base em
+seu histórico financeiro e no contexto macroeconômico do Brasil.
 
-## 🛠️ Tecnologias
-- Python
-- Pandas
-- Jupyter Notebook
+## Datasets
+- **Give Me Some Credit** (Kaggle) — 150.000 clientes reais
+- **Banco Central do Brasil** — séries macroeconômicas (2015–2024)
 
-## 📈 Análises realizadas
-- Limpeza de dados
-- Exploração
-- Insights de risco
+## Tecnologias
+- Python (pandas, numpy, matplotlib, seaborn, scikit-learn)
+- Power BI Desktop
+- Jupyter Notebook / VS Code
 
-## 🚀 Resultado
-Identificação de padrões de risco em clientes
+## Estrutura
+```
+projeto/
+  data/           ← dados brutos (não versionados)
+  output/         ← CSVs gerados pelo notebook
+  risco_credito_entrega1.ipynb  ← notebook principal
+```
+
+## Como executar
+1. Baixe o dataset no Kaggle e coloque em `data/`
+2. Execute todas as células do notebook em ordem
+3. Importe os CSVs da pasta `output/` no Power BI
