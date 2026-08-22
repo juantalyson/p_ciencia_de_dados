@@ -254,16 +254,6 @@ O dashboard tem 4 páginas navegáveis:
 
 ---
 
-## 👥 Equipe
-
-| Nome | Função |
-|---|---|
-| Gabriela | Análise exploratória e visualizações |
-| Juan Talysson | Coleta de dados, limpeza e Machine Learning |
-| Maria Elis | Feature Engineering, KPIs e dashboard Power BI |
-
----
-
 <div align="center">
 
 **Ciência da Computação — UniCEUB**  
