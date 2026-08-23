@@ -1,10 +1,13 @@
-﻿KPI,Valor
-Taxa Global de Inadimplencia (%),6.68
-Utilizacao Media de Credito (%),42.16
-Media de Linhas de Credito,8.4
-Clientes com Atraso Grave 90d (%),1.03
-Inadimplencia Nacional BCB (%),2.95
-Concessoes de Credito BCB (R$ Mi),28.0
-Spread Bancario Medio (%),1.98
-Variacao Mensal Inadimplencia (%),-0.19
-Correlacao Spread x Inadimplencia,0.769
+﻿KPI,Valor,Unidade
+Taxa Global de Inadimplência,6.7,%
+Utilização Média de Crédito,31.98,%
+Razão Dívida/Renda Mediana,0.283,x
+Renda Mensal Mediana,5246.0,USD
+Média de Linhas de Crédito,8.481,un
+Clientes com Atraso Grave (90d+),5.394,%
+Score de Risco Médio,50.0,pts
+Lift do Score (D10/D1),40.69,x
+Inadimplência Nacional (BCB),3.08,%
+Concessões de Crédito (BCB),699427.0,R$ Mi
+Juros Médio ao Ano (BCB),28.5,% a.a.
+Correlação Juros x Inadimplência,0.776,r

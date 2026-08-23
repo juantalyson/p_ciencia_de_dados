@@ -1,0 +1,13 @@
+﻿Variavel,Correlacao,Direcao
+Historico_Atrasos,0.3934,Aumenta o risco
+Atrasos_90dias,0.3119,Aumenta o risco
+Score_Risco_Composto,0.3045,Aumenta o risco
+Utilizacao_Credito,0.2821,Aumenta o risco
+Atrasos_30_59dias,0.2715,Aumenta o risco
+Atrasos_60_89dias,0.2657,Aumenta o risco
+Dependentes,0.0465,Aumenta o risco
+Razao_Divida,0.0426,Aumenta o risco
+Emprestimos_Imoveis,-0.0076,Reduz o risco
+Linhas_Credito_Abertas,-0.0305,Reduz o risco
+Renda_Mensal,-0.0522,Reduz o risco
+Idade,-0.1157,Reduz o risco

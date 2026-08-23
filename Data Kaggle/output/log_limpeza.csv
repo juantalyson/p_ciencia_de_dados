@@ -1,0 +1,8 @@
+﻿Etapa,Detalhe,Linhas_Restantes
+Duplicatas removidas,609 linhas idênticas,149391
+Idade inválida removida,1 registro(s) com idade = 0,149390
+Sentinelas 96/98 tratadas,"225 registros, mediana imputada",149390
+Renda imputada,"29,221 nulos (19.6%) por faixa etária",149390
+Razão dívida/renda recalculada,"29,221 registros reconstruídos",149390
+Extremos winsorizados,"Utilizacao/Renda no p99, Razao com teto 2,0",149390
+Dependentes imputados,"3,828 nulos preenchidos com a moda (0)",149390
